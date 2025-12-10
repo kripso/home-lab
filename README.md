@@ -13,6 +13,7 @@ It contains everything needed to understand, maintain, and rebuild my infrastruc
 - **Networking:** Ubiquity Ecosystem For Life
 
 ## 🧰 Hardware
+![Rack](assets/image.png)
 - **Rack:** 19' OCRACK OCC-25U-68SBK
   - **Accesories**:
     - [R20 Series II Rack Mounting Screws](https://amzn.to/49CW2ry)
@@ -30,7 +31,6 @@ It contains everything needed to understand, maintain, and rebuild my infrastruc
       - [KALEA-INFORMATIQUE PCIe 3.0 SAS 12GB Controller Card with 24 Internal Ports OEM Model 9305-24i](https://amzn.to/49GGAKY)
     - **Others:**
       - [Noctua NF-R8 redux-1800 PWM](https://amzn.to/4qTknQc)
-
 ## 💾 Unraid
 
 ### Storage Configuration
